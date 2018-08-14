@@ -3,6 +3,7 @@ CONTENTS OF THIS FILE
 ---------------------
 
  * About Drupal
+* Hi Mom
  * Configuration and features
  * Installation profiles
  * Appearance
